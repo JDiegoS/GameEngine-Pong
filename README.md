@@ -2,6 +2,7 @@
 
 Pong from scratch using C++ and SDL
 
+Start game with ./run.sh
 
 Controls
 
